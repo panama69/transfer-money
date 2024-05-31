@@ -1,3 +1,4 @@
-#Header 1
-# Header 2
-*bolding*
+# Header 1
+**bolding**
+* bullet list 1
+* bullet list 2
